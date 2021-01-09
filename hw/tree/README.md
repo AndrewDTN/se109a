@@ -7,5 +7,5 @@
 ```  
 ## 2.程式解析
 ```
-![1](picture/1.png)
+![1](https://github.com/AndrewDTN/se109a/blob/master/hw/tree/picture/1.png)
 ```
