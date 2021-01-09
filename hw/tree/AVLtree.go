@@ -297,6 +297,9 @@ func main() {
 	fmt.Println("find min value: ",tree.Findmin())
 	fmt.Println("find max value: ",tree.Findmax()) 
 
+	fmt.Println("-------")
+	tree.Midorder()
+	fmt.Println("-------")
 	node := tree.Find(99)
 	if node != nil {
 		fmt.Println("find 99!")
@@ -310,7 +313,7 @@ func main() {
 	} else {
 		fmt.Println("not find")
 	}
-
+	
 	tree.Delete(9)
 	tree.Delete(10)
 	tree.Delete(2)
