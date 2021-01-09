@@ -1,4 +1,8 @@
 # AVL樹實作
+```
+參考資料 : https://josephjsf2.github.io/data/structure/and/algorithm/2019/06/22/avl-tree.html
+https://goa.lenggirl.com/algorithm/search/avl_tree.html
+```
 ## 1.AVL樹簡介
 ```
 1.AVL樹 是嚴格平衡的二元搜尋樹
