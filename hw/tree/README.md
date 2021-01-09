@@ -18,7 +18,7 @@
 ## 2.4定義如何旋轉
 ![image](picture/4.png)
 * 右旋轉示意圖(左旋轉以此類推)
-![image](picture/4-1.png)
+![image](picture/4-1.PNG)
 ## 2.5增加元素
 ![image](picture/5-1.png)
 * 若增加元素時樹根節點為空的話回傳一個值為元素高度為1的節點
